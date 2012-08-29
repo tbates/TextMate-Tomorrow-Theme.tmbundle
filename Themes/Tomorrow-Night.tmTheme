@@ -17,6 +17,10 @@
 				<string>#AEAFAD</string>
 				<key>foreground</key>
 				<string>#C5C8C6</string>
+				<key>gutterBackground</key>
+				<string>#1D1F21</string>
+				<key>gutterSelectionBackground</key>
+				<string>#373B41</string>
 				<key>invisibles</key>
 				<string>#4B4E55</string>
 				<key>lineHighlight</key>
