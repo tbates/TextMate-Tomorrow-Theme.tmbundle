@@ -4,8 +4,12 @@
 <dict>
 	<key>comment</key>
 	<string>http://chriskempson.com</string>
+	<key>isDisabled</key>
+	<true/>
 	<key>name</key>
 	<string>Tomorrow Night - Bright</string>
+	<key>semanticClass</key>
+	<string>theme.dark.tomorrow_bright</string>
 	<key>settings</key>
 	<array>
 		<dict>
